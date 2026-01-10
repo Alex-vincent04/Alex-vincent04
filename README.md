@@ -1,12 +1,4 @@
 <div align="center">
-  <!-- Add your banner image below. To use your custom image: 
-  1. Upload the image to your repo in an 'assets' folder
-  2. Replace 'assets/banner.jpg' with your image filename
-  3. Or get a URL from Imgur.com and replace the entire src URL
-  -->
-  <img src="assets/banner.jpg" alt="Profile Banner" width="100%" style="max-width:100%; border-radius: 10px; margin-bottom: 20px;" /></div>
-
-<div align="center">
   <a href="https://github.com/Alex-vincent04"><img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/alex-vincent-59b7a0266/"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Vincent-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
   <a href="mailto:alexvincent580@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
