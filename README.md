@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+Alex%27s+GitHub;Game+Dev+%7C+Full+Stack+Engineer;Building+Interactive+Experiences" alt="Header" />
-</div>
+  <!-- Add your banner image below. To use your custom image: 
+  1. Upload the image to your repo in an 'assets' folder
+  2. Replace 'assets/banner.jpg' with your image filename
+  3. Or get a URL from Imgur.com and replace the entire src URL
+  -->
+  <img src="assets/banner.jpg" alt="Profile Banner" width="100%" style="max-width:100%; border-radius: 10px; margin-bottom: 20px;" /></div>
 
 <div align="center">
   <a href="https://github.com/Alex-vincent04"><img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
