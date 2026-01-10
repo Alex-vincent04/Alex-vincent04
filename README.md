@@ -1,18 +1,39 @@
-# 💫 About Me:
-I am a self-driven Computer Science and Design student at Viswajyothi College of Engineering and Technology. I have a passion for creating practical tech solutions that bridge the gap between robust functionality and creative design. I enjoy experimenting with new tools and applying creative problem-solving to real-world challenges.<br><br>I’m currently working on: CODEPAD, an AI-powered project management and coding platform featuring real-time collaborative coding and an AI coding assistant.<br><br>I’m looking to collaborate on: Projects involving Unity and Blender for game development , or web applications using HTML, CSS, and JavaScript.<br><br>I’m looking for help with: Creating assets and applying advanced physics in Unity 3D and 2D.<br><br>I’m currently learning: Modern Web Development and advanced Game Development techniques.<br><br>Ask me about: Unity game design, my space adventure game Space Exodus , or the project i am working on.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+Alex%27s+GitHub;Game+Dev+%7C+Full+Stack+Engineer;Building+Interactive+Experiences" alt="Header" />
+</div>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alex-vincent-59b7a0266/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexvincent580@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alex-vincent04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alex-vincent04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-vincent04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://github.com/Alex-vincent04"><img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/alex-vincent-59b7a0266/"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Vincent-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:alexvincent580@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alex-vincent04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About
+CS & Design student at Viswajyothi College of Engineering & Technology. Passionate about creating innovative game mechanics and building scalable web solutions. Currently developing **CODEPAD**, an AI-powered coding platform with real-time collaboration.
+
+**Interests:** Game Development (Unity/Blender) • Web Applications • Procedural Generation • Game Physics  
+**Looking for:** Game dev & web app projects • Help with advanced Unity physics & 3D assets
+
+### 💻 Tech Stack
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Alex-vincent04&theme=dark&hide_border=true&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-vincent04&theme=dark&hide_border=true&layout=compact)
+
+---
+<div align="center">
+  <p><em>Always learning, always building 🚀</em></p>
+</div>
