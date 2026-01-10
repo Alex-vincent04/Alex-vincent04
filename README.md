@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+Alex%27s+GitHub;Game+Dev+%7C+Full+Stack+Engineer;Building+Interactive+Experiences" alt="Header" />
+</div>
+
+<div align="center">
   <a href="https://github.com/Alex-vincent04"><img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/alex-vincent-59b7a0266/"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Vincent-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
   <a href="mailto:alexvincent580@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
