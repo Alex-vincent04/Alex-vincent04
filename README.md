@@ -11,10 +11,9 @@
 ---
 
 ### 💫 About
-CS & Design student at Viswajyothi College of Engineering & Technology. Passionate about creating innovative game mechanics and building scalable web solutions. Currently developing **CODEPAD**, an AI-powered coding platform with real-time collaboration.
+CS & Design student at Viswajyothi College of Engineering & Technology. Passionate about creating innovative game mechanics and building scalable web solutions.
 
-**Interests:** Game Development (Unity/Blender) • Web Applications • Procedural Generation • Game Physics  
-**Looking for:** Game dev & web app projects • Help with advanced Unity physics & 3D assets
+**Interests:** Game Development (Unity/Blender) • Web Applications • Game Physics
 
 ### 💻 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
